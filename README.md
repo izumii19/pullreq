@@ -1,2 +1,4 @@
 # pullreq
-# Hello, Pull Request
+
+pullreqの練習用。
+おそらくいずれこのリポジトリは消えます。
